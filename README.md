@@ -1,4 +1,35 @@
-### Informações a cerca da base de dados do projeto:
+<h3 align="center">Conecte-se comigo em:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/alanmarquesrocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alanmarquesrocha" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19201352/m4rkn4l4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alanmarquesrocha" height="30" width="40" /></a>
+<a href="https://instagram.com/alanmarquesrocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alanmarquesrocha" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="center"> 
+	 🚀 Em construção 🚀 
+</h3>
+
+---
+
+<h3 align="center">Modelo computacional para discriminação de células fotovoltaicas defeituosas em imagens eletroluminescentes.<br>
+
+---
+  
+### Informações básicas do projeto (Sujeito à alterações):
+
+O projeto em questão tem como objetivo realizar a implementação de uma topologia de CNN (Convolutional Neural Network) de baixo custo computacional para realizar a extração de atributos das imagens de células Fotovoltaicas (FVs) de um conjunto de dados amplamente utilizado na literatura, visando usar esses atributos para formar um vetor de características robusto que alimentará um classificador.
+
+O projeto em questão está dividido nas seguintes etapas (Sujeito à alterações):
+
+- Pré-processamento das imagens;
+- Aplicação do método ``Local Binary Pattern`` (LBP) para realizar a melhoria dos atributos que serão utilizados na alimentação da CNN;
+- Ajuste dos hiperparâmetros da CNN, visando obter uma topologia robusta e de baixo custo computacional;
+- Implementação da CNN para realizar o processo de extração de características das imagens;
+- Implementação de uma ``Support Vector Machine`` (SVM) que servirá como classificador do modelo proposto.
+
+
 
 A base de dados contém **2.624 imagens de células FVs de 300 x 300 pixels em níveis de cinza (8 bits)**, sendo 1.074 imagens de células de silício monocristalino e 1.550 imagens de células de silício policristalino, extraídas de 44 módulos FVs diferentes.
 
